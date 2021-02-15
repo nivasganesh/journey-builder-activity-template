@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://heroku.com/journeybuilder/execute",
+          "url": "https://herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "8805cbe7-b642-4a35-b4f2-c851f2df47d9",
       "save": {
-        "url": "https://heroku.com/journeybuilder/save",
+        "url": "https://herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://heroku.com/journeybuilder/publish",
+        "url": "https://herokuapp.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://heroku.com/journeybuilder/stop",
+        "url": "https://herokuapp.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://heroku.com/journeybuilder/validate",
+        "url": "https://herokuapp.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
