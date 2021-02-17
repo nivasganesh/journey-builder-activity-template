@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://testtreforsfmc.herokuapp.com//journeybuilder/execute",
+          "url": "https://testtreforsfmc.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
